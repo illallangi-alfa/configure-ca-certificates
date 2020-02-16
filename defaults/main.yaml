@@ -1,2 +1,2 @@
 ---
-ca-certificates: true
+ca_certificates: true
